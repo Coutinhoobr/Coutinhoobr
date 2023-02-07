@@ -2,7 +2,7 @@
 🌻 Sobre mim:
 Tenho 31 anos, sou de Franca-SP  Desenvolvedor Lead e Front-End 
 
-🌱 Atualmente estou estudando e praticando Html5, CSS3, js, Reac .<br><br>
+🌱 Atualmente estou Trabalhando como Front-end na Scienzee e estudando Html5, CSS3, js, Reac .<br><br>
 🚀 Estudante da Rocketseat, Udemy, Full Cycle e DevClub<br><br>
 📞 Meu Contato 16-988245054<br><br>
 📫 Meu email: coitinhoobr97@gmail.com<br><br>
